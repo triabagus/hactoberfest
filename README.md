@@ -21,7 +21,7 @@
 
 # Jika sudah pernah bikin PR di repo ini:
 1. Masuk ke branch main.
-2. Update branch main (git pull origin ...)
+2. Update branch main (git pull origin main)
 3. Masuk ke branch yang di buat waktu PR pertama (git checkout ...)
 4. Merge dengan branch main (git merge main)
 5. Add new file / Update file yang ada di dalam folder saat PR pertama
