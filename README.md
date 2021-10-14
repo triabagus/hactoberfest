@@ -9,25 +9,21 @@
 
 ### let's discuss how you can contribute in *hacktoberfest 2021* 🙌
 
-# Jika belum pernah bikin PR di repo ini:
-1. Clone repo.
-2. Bikin branch baru.
+# Guidelines:
+1. Frok repo ini
+2. Clone
 3. Bikin folder nama kamu, bikin index.txt (boleh kosong atau di isi text terserah).
 4. Commit
 5. Push
-6. Buat PR
+6. Kirim PR ke repo ini
 
-### Agar tidak terlalu banyak branch, setiap PR akan di merge, jadi sebelum bikin PR yang lain pastikan PR sebelumnya sudah di merge.
+# Setelah PR di merge:
+1. Update index.txt (atau bisa tambah file baru atau yang lainnya).
+2. Commit
+3. Push
+4. Kirim PR ke repo ini
 
-# Jika sudah pernah bikin PR di repo ini:
-1. Masuk ke branch main.
-2. Update branch main (git pull origin main)
-3. Masuk ke branch yang di buat waktu PR pertama (git checkout ...)
-4. Merge dengan branch main (git merge main)
-5. Add new file / Update file yang ada di dalam folder saat PR pertama
-6. Commit
-7. Push
-8. Buat PR
+### Sebelum bikin PR yang lain pastikan PR sebelumnya sudah di merge.
 
 ### Kalo PR tidak mucul di hacktoberfest profile tunggu aja, Hacktoberfest profile page di refresh sekitar 15 menit - 6 jam
 ### Happy coding 🥳
