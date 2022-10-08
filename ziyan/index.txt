@@ -2,3 +2,4 @@
 - pull request 2
 
 PR Hacktoberfest 2022 #1
+PR Hacktoberfest 2022 #2
